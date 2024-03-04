@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+  .not-found-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .error-image {
+    height: 100px;
+    width: 100px;
+  }
+}

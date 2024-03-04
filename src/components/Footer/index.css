@@ -1,0 +1,14 @@
+.footer-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  height: 63px;
+  color: #36a546;
+  background: transparent linear-gradient(262deg, #0f2323 0%, #0f2323 40%) 0% 0%
+    no-repeat padding-box;
+  box-shadow: inset 8px 4px 4px #00000040;
+  mix-blend-mode: normal;
+  border: 1px solid #0f2323;
+  opacity: 1;
+}
